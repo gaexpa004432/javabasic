@@ -19,8 +19,8 @@ public class CharOperationExample {
         int result = a1 - a2;
         return result;
     }
-    public static double div(int a1, int a2){
-    
-        return (double)a1/a2;
+
+    public static double div(int a1, int a2) {
+        return (double) a1 / a2;
     }
 }
