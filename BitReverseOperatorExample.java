@@ -12,7 +12,7 @@ public class BitReverseOperatorExample {
 		int result;
 		result = a1 +a2;
 		System.out.println(result);
-		
+		//51
 	}
 	public static String toBinaryString(int val){
 		String str = Integer.toBinaryString(val);
