@@ -12,7 +12,7 @@ public class BitReverseOperatorExample {
 		int result;
 		result = a1 +a3;
 		System.out.println(result);
-		
+		//51
 	}
 
 }
