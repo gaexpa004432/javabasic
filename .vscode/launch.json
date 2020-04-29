@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BitReverseOperatorExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "BitReverseOperatorExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BooleanExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "BooleanExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CharExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "CharExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CharOperationExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "CharOperationExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoubleExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "DoubleExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "ForExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Hello<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IfExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "IfExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IntExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "IntExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "LongExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PracticeExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "PracticeExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RemindExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "RemindExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SingleExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "SingleExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringConcatExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "StringConcatExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringEqulsExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "StringEqulsExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SwitchExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "SwitchExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VariableExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "VariableExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WhileScannerExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "WhileScannerExample",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EvenSumExample<java_72e8cc1b>",
+            "request": "launch",
+            "mainClass": "com.yedam.EvenSumExample",
+            "projectName": "java_72e8cc1b"
+        }
+    ]
+}
